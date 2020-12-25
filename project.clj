@@ -1,4 +1,4 @@
-(defproject terraform-graph "1.0.0"
+(defproject terraform-graph "1.1.0-SNAPSHOT"
   :description "Generate an XGML dependency graph from a Terraform state file"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
